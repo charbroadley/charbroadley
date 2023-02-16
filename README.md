@@ -1,4 +1,4 @@
-### Hi there, I'm Char 👋   
+### 👋 Hi there, I'm Char    
 
 🌱 I’m studying software development at CodeClan   
 :full_moon_with_face: I’m currently working on creating an API inspired by The Mighty Boosh   
