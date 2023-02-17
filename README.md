@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Char    
+### 👋 Hi, I'm Char    
 
 :pizza: Pronouns: she/her   
 🌱 I’m studying software development at CodeClan   
